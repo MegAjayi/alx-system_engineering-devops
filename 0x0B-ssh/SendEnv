@@ -1,0 +1,4 @@
+shKnownHosts yes
+    GSSAPIAuthentication yes
+    PasswordAuthentication no
+    IdentityFile ~/.ssh/holberton
